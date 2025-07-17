@@ -1,4 +1,4 @@
-const {
+uconst {
 default: makeWASocket,
 useMultiFileAuthState,
 DisconnectReason,
@@ -71,7 +71,7 @@ console.log('JANI__MD__BOT connected to whatsapp ✅')
 
 let up = `JANI__MD__BOT connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `IMG-20250717-WA0050.jpg` }, caption: up })
 
 }
 })
