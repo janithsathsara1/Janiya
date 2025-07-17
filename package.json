@@ -1,12 +1,12 @@
 {
-  "name": "yourbot",
+  "name": "JANI__MD__BOT",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
-    "stop": "pm2 stop wabot",
-    "restart": "pm2 restart wabot"
+    "start": "pm2 start index.js --deep-monitoring --attach --JANI__MD__BOT",
+    "stop": "pm2 JANI__MD__BOT",
+    "restart": "pm2 restart JANI__MD__BOT"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
